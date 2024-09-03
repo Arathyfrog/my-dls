@@ -17,7 +17,7 @@ A React application built with Vite, integrating Token Studio and Style Dictiona
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Arathyfrog/mystc-dls
+   git clone https://github.com/Arathyfrog/mystc-dls.git
    cd mystc-dls
    ```
 
